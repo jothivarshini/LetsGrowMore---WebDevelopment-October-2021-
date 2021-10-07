@@ -1,3 +1,5 @@
+# Creating a single page website 
+
 This task is to determine the understanding  of HTML, CSS and Javascript skills.
 
 A template regarding the layout of the page was provided. The objective is to replicate the layout with customized designing. 
