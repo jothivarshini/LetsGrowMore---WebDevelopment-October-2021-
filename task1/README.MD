@@ -7,3 +7,5 @@ In the images file, all images that have been used in the site have been given. 
 
 A site preview
 
+![site preview](https://user-images.githubusercontent.com/73244900/136389573-3e1ab817-b67a-4be1-9425-ab0665bc2f28.jpg)
+
